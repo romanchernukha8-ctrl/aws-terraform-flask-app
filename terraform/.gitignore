@@ -3,3 +3,4 @@
 *.tfstate.backup
 *.lock.hcl
 .env
+.idea/
